@@ -2,7 +2,7 @@ fun main(){
 school()
    var h= sentence("julie",19)
     println(h)
-    f()
+    g()
     s()
 }
 fun school(){
@@ -16,7 +16,7 @@ fun sentence(name: String, age: Int): String{
     return j
 }
 
-fun f():Int{
+fun g():Int{
     var j= "maranda"
     var m=j.length
     return m
