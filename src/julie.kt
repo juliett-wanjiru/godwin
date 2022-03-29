@@ -6,7 +6,7 @@ school()
     s()
 }
 fun school(){
-    var name= "akirachix"
+    var name= "Dodoma"
     var n= name[1].toString()+name[3]+name[4]
     println(n)
 
@@ -17,7 +17,7 @@ fun sentence(name: String, age: Int): String{
 }
 
 fun g():Int{
-    var j= "maranda"
+    var j= "rehema"
     var m=j.length
     return m
 
